@@ -5,5 +5,5 @@ Generate an SSO token that will refresh every 8 hours.
 aws sso login --sso-session stephen
 ```
 ```bash
-git@github.com:stephen2002119/aws-notes.git
+export AWS_PROFILE=your_profile_name
 ```
