@@ -7,3 +7,6 @@ aws sso login --sso-session stephen
 ```bash
 export AWS_PROFILE=your_profile_name
 ```
+```bash
+aws eks update-kubeconfig --region region-code --name my-cluster
+```
